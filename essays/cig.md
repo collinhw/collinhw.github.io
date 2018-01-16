@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: argumentative essay
+type: essay
 title: A Price Tag on a Cigarette
 date: 2017-02-15
 ---
