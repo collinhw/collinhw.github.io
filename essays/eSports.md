@@ -1,6 +1,6 @@
 ---
-layout: Essay
-type: argumentative essay
+layout: essay
+type: essay
 title: Rise of eSports
 date: 2017-05-05
 ---
