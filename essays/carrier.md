@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: argumentative essay
+type: essay
 title: Clash of the Carriers
 date: 2017-03-14
 ---
