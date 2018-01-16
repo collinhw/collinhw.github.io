@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Overwatch.png
 title: 2-D Shoot Out
 permalink: projects/shooting
 # All dates must be YYYY-MM-DD format!
