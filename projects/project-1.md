@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: 2-D Shoot Out
+permalink: projects/shooting
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2016-12-14
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - ICS 111
+  - Java
+summary: My team developed a side by side shooting game based off on Overwatch characters killing pokemon characters.
 ---
 
 <div class="ui small rounded images">
