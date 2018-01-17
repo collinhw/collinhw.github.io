@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Overwatch.png
 title: 2-D Shoot Out
-permalink: projects/shooting
+permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-14
 labels:
