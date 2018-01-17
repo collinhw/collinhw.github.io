@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: A New Chapter
-date: 2018-16-01
+date: 2018
 ---
 
 As a ICS major going into the spring of my sophomore year, my programming skills are
