@@ -23,5 +23,5 @@ When doing group assignments or activities, there is an awkward silence before a
 activity. I want to be able to facilitate a healthy flow of conversation that keeps my group
 members from staying silent and doing the work by themselves. A strong group environment should not just have one person talking, it should be a collaborative environment where everyone is able to pitch in their own ideas.
 
-<img class="ui medium left floated rounded image" src="https://static1.squarespace.com/static/564e8701e4b0625ac18bb447/5650ee2de4b02ba778fc9eae/56f21648f85082b74d3027e7/1458738003289/15253-open-book-1280x800-photography-wallpaper.jpg?format=2500w">
+<img class="ui medium left floated rounded image" src="http://swscmedia.com/_swsc_wp/wp-content/uploads/2013/03/Reflection_pic.jpg">
 
