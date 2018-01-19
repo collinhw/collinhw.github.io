@@ -18,7 +18,8 @@ simpler than C#, as you need to have function prototypes, and datatypes for your
 I think that Javascript is a good language to start for software engineering as people can build
 off their portfolio with web development. Then later branch out to other languages such as CSS
 and HTML. I found the practice WADs to be extremely useful. My first WAD I was stuck up on a
-bug, and my head kept thinking about the time constraint. Although the practice WADs do not
+bug, and my head kept thinking about the time constraint. <img class="ui medium left floated rounded image" 
+src="https://static1.squarespace.com/static/564e8701e4b0625ac18bb447/5650ee2de4b02ba778fc9eae/56f21648f85082b74d3027e7/1458738003289/15253-open-book-1280x800-photography-wallpaper.jpg?format=2500w">Although the practice WADs do not
 have the same pressure as a normal WAD the material is very similar and very applicable to the
 real thing. Having stress involved with coding is a frustrating thing that I want to learn to control.
 I want to be able to limit the stress and not focus on the time restriction.
@@ -32,5 +33,4 @@ mistake or overlook a bug. But this is a step in the right direction for my curr
 regimen. I shouldn't rely on my short term memory just to earn grades, I should be able to
 create a deeper understanding for myself and apply it to future WADs.
 
-<img class="ui medium left floated rounded image" 
-src="https://static1.squarespace.com/static/564e8701e4b0625ac18bb447/5650ee2de4b02ba778fc9eae/56f21648f85082b74d3027e7/1458738003289/15253-open-book-1280x800-photography-wallpaper.jpg?format=2500w">
+
