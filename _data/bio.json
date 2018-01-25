@@ -73,6 +73,12 @@
       "endDate": "TBD",
       "gpa": "TBD",
       "courses": [
+        "ICS 111",
+        "ICS 141",
+        "ICS 211",
+        "ICS 241",
+        "ICS 212",
+        "ICS 311"
       ]
     }
   ],
