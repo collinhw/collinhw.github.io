@@ -7,3 +7,5 @@ See the quick start guide for instructions on how to tailor the template to your
 This is my sample project.
 
 I really like this project!
+
+I really really like this project!
