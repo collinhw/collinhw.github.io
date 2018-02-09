@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: A Different Rubric
-date: 2018-01-18
+date: 2018-02-08
 ---
 
 In my freshmen year when I first started learning Java in ICS 111, I was given a simple "guide" of coding standards. This includes capitalizing the second word's first letter when making function or variables, indenting formats, etc. I agree that coding standards allow someone learning a new language easier. When I started using jsFiddle for ICS 314 we had a "tidy" option that fixed all indentions and adjusting spaces for curly braces. Although the function will still run the same way with different formatting, it is easier for people who read and analyze your code to understand what is going on. By adjusting yourself to adopt this new style revitalizes your knowledge pushing you to learn something new. Although it is not a syntax or grammar issue when learning a new language, knowing how to format your code is important later on when presenting it to a nonbiased audience. <img class="ui medium left floated rounded image" src="https://2.bp.blogspot.com/-YvHps2mMNPM/V9oVdWAjS0I/AAAAAAAABrc/c-SwN2n0HP4vY4F3jtaAqR8PZsifE30hQCLcB/s1600/criteria.jpg">
