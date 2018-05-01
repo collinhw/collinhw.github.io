@@ -21,13 +21,13 @@ experiencing HTML/CSS. Once I started learning it, I gradually wanted to learn a
 more as it is a very open language that allows me to be creative and express myself in site
 design. Learning Semantic UI was confusing at first as I didn't understand why I did not have to
 call any classes in CSS, until I realized that there is already code within the class when I
-inspected it using developer tools. <img class="ui medium left floated rounded image" src="https://i.pinimg.com/736x/f0/9c/9f/f09c9fcaa42dab60217743d3507be452--mens-fashion-suits-mens-fashion-blog.jpg">When making subclasses within Semantic UI in the CSS file,
+inspected it using developer tools. <img class="ui medium left floated rounded image" src="http://www.reed-brown.com/wp-content/uploads/2015/03/boyeyes.jpg">When making subclasses within Semantic UI in the CSS file,
 there has to be a space after the Semantic UI class or the class doesn't run. This syntax format
 gave me many headaches during the practice and Danny wods, as I didn't understand why my
 CSS changes weren't going through. I also made the same mistake on the Hardrock WOD as
 my changes weren't going through again until I fixed my syntax errors. This is just a habit that I
 have to learn to develop if I want to improve on my efficiency where I do not have to look for
-simple syntax errors and I can focus on functions and designs. <img class="ui medium left floated rounded image" src="https://fossbytes.com/wp-content/uploads/2017/03/loved-hated-programming-languages.jpg">
+simple syntax errors and I can focus on functions and designs. 
 
 UI frameworks is a great option for developers who want to branch off to something new after
 already being proficient in HTML/CSS. It gives them more options for other designs that are
