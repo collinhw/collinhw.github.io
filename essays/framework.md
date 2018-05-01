@@ -21,7 +21,7 @@ experiencing HTML/CSS. Once I started learning it, I gradually wanted to learn a
 more as it is a very open language that allows me to be creative and express myself in site
 design. Learning Semantic UI was confusing at first as I didn't understand why I did not have to
 call any classes in CSS, until I realized that there is already code within the class when I
-inspected it using developer tools. <img class="ui medium left floated rounded image" src="https://i.pinimg.com/originals/a6/11/21/a6112194ec428f83136bec379792c78e.jpg">When making subclasses within Semantic UI in the CSS file,
+inspected it using developer tools. <img class="ui medium left floated rounded image" src="https://i.pinimg.com/736x/f0/9c/9f/f09c9fcaa42dab60217743d3507be452--mens-fashion-suits-mens-fashion-blog.jpg">When making subclasses within Semantic UI in the CSS file,
 there has to be a space after the Semantic UI class or the class doesn't run. This syntax format
 gave me many headaches during the practice and Danny wods, as I didn't understand why my
 CSS changes weren't going through. I also made the same mistake on the Hardrock WOD as
