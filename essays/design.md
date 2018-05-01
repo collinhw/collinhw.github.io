@@ -14,7 +14,8 @@ They create their own designs and proceed to deliver a final piece that properly
 pattern properties.
 
 Design patterns are the clothes that we wear every day. The style that we choose, the clothing
-we buy, can be used in many situations in our life. Clothing can be adapted where certain things
+we buy, can be used in many situations in our life. <img class="ui medium left floated rounded image" src="https://i.pinimg.com/736x/f0/9c/9f/f09c9fcaa42dab60217743d3507be452--mens-fashion-suits-mens-fashion-blog.jpg">
+Clothing can be adapted where certain things
 can be added or removed. In recent culture, it seems that having less clothing seems to be the
 trend now. As time goes on it seems that clothing is becoming more "simple" as people don't
 have the time to spend looking at their closet for clothing. The same with software engineering,
@@ -27,7 +28,7 @@ it off to other creating initial "copies" of a design that later pivots to becom
 
 In software engineering. there are many design patterns that developers can choose from. For
 the final project, my design pattern was based off on bowlfolios. This design pattern got me
-started with an initial template of a login/register system using meteor. Then I had to incorporate
+started with an initial template of a login/register system using meteor. <img class="ui medium left floated rounded image" src="https://fossbytes.com/wp-content/uploads/2017/03/loved-hated-programming-languages.jpg">Then I had to incorporate
 my project's idea into this design pattern. This template was also used by the rest of my
 classmates as a starting point for their project. An example of a design pattern I used is
 singleton where I created an instance of profiles that was called and exported all over my
