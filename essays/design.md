@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Different Template
+title: Fashion is Everywhere!
 date: 2018-04-30
 ---
 
