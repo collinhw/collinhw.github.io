@@ -35,8 +35,8 @@ tags for their listed courses. I wanted users to be able to quickly create an ac
 user profile and begin to browse the currently available study sessions. Their user profile would
 consist of their class standing and specified courses that they wish to pursue help in.
 
-<div class="ui medium rounded images">
-  <img class="ui medium image" src="../images/lc.gif">
+<div class="ui large rounded images">
+  <img class="ui large image" src="../images/lc.gif">
 </div>
 
 During the course of the entire project, my team ran in to many merge conflicts as it was the first
